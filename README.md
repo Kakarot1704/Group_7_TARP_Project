@@ -6,3 +6,5 @@ The growth of crops requires nutrients and water, and the spread of weeds in the
 The morphology of crops at the seedling stage is similar to some weeds and is sometimes mistaken for weeds. In addition, for some species of weeds with similar shapes and colors, manual identification requires a lot of experience and consumes a long period of time. Therefore, detecting weeds with images is a challenging problem.
 
 In this project, we will be presenting plant and weed detection using different deep learning techniques like AlexNet, Customised CNN, LeNet, MobileNetV2 and we will be comparing the accuracies of all the techniques and we will be taking the technique which has highest accuracy. Also, we have built a web app interface through which farmers can upload the seedlings images and the technique chosen will be detecting the weed from the images.
+
+Link for our Web App: http://plant.test.woza.work/
